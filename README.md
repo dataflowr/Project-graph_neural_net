@@ -1,3 +1,7 @@
+# DL-DIY potential project ideas
+
+- Compare MGNN versus FGNN on various models of graphs (Erdos-Reyni, regular, SBM...)
+
 # Expressive Power of Invariant and Equivariant Graph Neural Networks 
 
 In this repository, we show how to use powerful GNN (2-FGNN) to solve a  graph alignment problem. This code was used to derive the practical results in the following paper:
